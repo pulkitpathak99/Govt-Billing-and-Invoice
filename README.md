@@ -4,7 +4,8 @@
 
 Govt. Billing and Invoice application for SIH hackathon
 
-Drive link for Prototype PPT
+Drive link for Prototype PPT on the Project E-Waste Locator Facility for the national Level Smart India Hackathon
+
 https://drive.google.com/file/d/1x4LovYjRNzFxNUozVTM8gwo6kvTJF8xN/view?usp=sharing
 
 [Demo Apk](demo_apk/app-release.apk)
