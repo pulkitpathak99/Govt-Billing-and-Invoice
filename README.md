@@ -8,6 +8,8 @@ Drive link for Prototype PPT on the Project E-Waste Locator Facility for the nat
 
 https://drive.google.com/file/d/1x4LovYjRNzFxNUozVTM8gwo6kvTJF8xN/view?usp=sharing
 
+
+To run the App in your system Use this -->
 [Demo Apk](demo_apk/app-release.apk)
 
 ### Screenshots
