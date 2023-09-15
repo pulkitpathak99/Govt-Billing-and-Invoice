@@ -2,7 +2,10 @@
 
 # Invoice Management UI
 
-Invoice Management Application Using Dart language and Flutter Framework Clean UI.
+Govt. Billing and Invoice application for SIH hackathon
+
+Drive link for Prototype PPT
+https://drive.google.com/file/d/1x4LovYjRNzFxNUozVTM8gwo6kvTJF8xN/view?usp=sharing
 
 [Demo Apk](demo_apk/app-release.apk)
 
