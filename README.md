@@ -1,12 +1,15 @@
 <!-- @format -->
-# Team Name: ByteByByte
 # Govt Billing and Invoice Application using Flutter 
+**Project: Govt. Billing and Invoicing System App**
+- **Description:** Developed a cross-platform deep linking Android tablet app using hybrid frameworks like Flutter. The app serves as a comprehensive solution for government billing and invoicing.
+- **Technologies Used:** Flutter, Ionic Angular, Capacitor, Firebase
+- **Objectives Achieved:**
+  1. **Save to Cloud Feature:**
+      - Implemented cloud storage functionality using Firebase, allowing users to save and retrieve data seamlessly. Workflow documented for Dropbox on Ionic Angular.
+  2. **Export as .html or CSV:**
+      - Integrated the Capacitor Email Composer plugin to enable users to export worksheets as .html or CSV files. Implemented a feature to email the selected worksheet.
+- **Outcome:** Successfully delivered a feature-rich government billing and invoicing system app with improved workflow efficiency and user-friendly export options.
 
-Govt. Billing and Invoice application for SIH hackathon
-
-Drive link for Prototype PPT on the Project E-Waste Locator Facility for the national Level Smart India Hackathon
-
-https://drive.google.com/file/d/1x4LovYjRNzFxNUozVTM8gwo6kvTJF8xN/view?usp=sharing
 
 
 To run the App in your system Use this -->
